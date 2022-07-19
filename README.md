@@ -4,7 +4,7 @@
 
 # Metify
 
-> Metify is a project-tracking application, featuring Hotwire as well as:
+> Metify is a project-tracking application, featuring Hotwire (3.1.0) as well as:
 
 - Ruby on Rails 7.0.3
 - Ruby 3.1.2
