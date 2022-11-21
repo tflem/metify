@@ -13,8 +13,8 @@
 - HTML5 and Sass 1.56.1
 - PostgreSQL (Tested for 14.x)
 - Testing: Minitest 5.16.3
-- Code Bundler: esbuild 0.15.13
-- Continuous Integration/Deployment: Github Actions/Heroku
+- Code Bundler: esbuild 0.15.15
+- Continuous Integration/Deployment: Github Actions/Digital Ocean
 
 ## Setup
 
