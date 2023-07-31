@@ -37,7 +37,7 @@ end
 group :test do
   gem "capybara"
   gem "cuprite"
-  gem "webdrivers"
+  gem "webdrivers", "= 5.3.0"
   gem "simplecov", "~> 0.21.2"
   gem "simplecov_json_formatter", "~> 0.1.4"
 end
