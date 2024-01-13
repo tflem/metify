@@ -10,10 +10,10 @@
 - Hotwired/Stimulus: 3.2.2
 - Hotwired/Turbo-Rails 8.0.0-beta.2
 - Ruby 3.1.2
-- HTML5 and Sass 1.69.5
+- HTML5 and Sass 1.69.7
 - PostgreSQL (Tested for 16.x)
-- Testing: Minitest 5.20.0
-- Code Bundler: esbuild 0.19.10
+- Testing: Minitest 5.21.1
+- Code Bundler: esbuild 0.19.11
 - Continuous Integration/Deployment: Github Actions/Digital Ocean
 
 ## Setup
