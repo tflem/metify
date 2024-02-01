@@ -12,8 +12,8 @@
 - Ruby 3.1.2
 - HTML5 and Sass 1.70.0
 - PostgreSQL (Tested for 16.x)
-- Testing: Minitest 5.21.1
-- Code Bundler: esbuild 0.19.12
+- Testing: Minitest 5.21.2
+- Code Bundler: esbuild 0.20.0
 - Continuous Integration/Deployment: Github Actions/Digital Ocean
 
 ## Setup
