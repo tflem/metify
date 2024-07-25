@@ -8,7 +8,7 @@
 
 - Ruby on Rails 7.1.3.4
 - Hotwired/Stimulus: 3.3.2
-- Hotwired/Turbo-Rails 8.0.4
+- Hotwired/Turbo-Rails 8.0.5
 - Ruby 3.2.2
 - HTML5 and Sass 1.77.8
 - PostgreSQL (Tested for 16.x)
