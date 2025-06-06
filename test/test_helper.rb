@@ -1,11 +1,5 @@
 require "simplecov"
 require "simplecov_json_formatter"
-require "capybara/cuprite"
-
-Capybara.javascript_driver = :cuprite
-Capybara.register_driver(:cuprite) do |app|
-  Capybara::Cuprite::Driver.new(app, window_size: [1400, 1400])
-end
 
 SimpleCov.formatter = SimpleCov::Formatter::JSONFormatter
 
@@ -13,9 +7,16 @@ SimpleCov.start do
   add_filter "/test/"
 end
 
-ENV['RAILS_ENV'] ||= 'test'
+ENV["RAILS_ENV"] ||= "test"
 require_relative "../config/environment"
 require "rails/test_help"
+require "capybara/cuprite"
+
+Capybara.javascript_driver = :cuprite
+Capybara.register_driver(:cuprite) do |app|
+  Capybara::Cuprite::Driver.new(app, window_size: [1400, 1400])
+end
+
 
 class ActiveSupport::TestCase
   # Run tests in parallel with specified workers
