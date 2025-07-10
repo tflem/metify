@@ -6,14 +6,14 @@
 
 > Metify is a project-tracking application, featuring Hotwire as well as:
 
-- Ruby on Rails 7.2.2.1
+- Ruby on Rails 8.0.0
 - Hotwired/Stimulus: 3.3.2
 - Hotwired/Turbo-Rails 8.0.16
 - Ruby 3.4.4
 - HTML5 and Sass 1.89.2
 - PostgreSQL (Tested for 17.x)
 - Testing: Minitest 5.25.5
-- Code Bundler: esbuild 0.25.5
+- Code Bundler: esbuild 0.25.6
 - Continuous Integration/Deployment: Github Actions/Digital Ocean
 
 ## Setup
