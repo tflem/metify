@@ -1,6 +1,4 @@
 ![Metify workflow](https://github.com/tflem/metify/actions/workflows/metify.yml/badge.svg)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b28c21585883ffe6279e/maintainability)](https://codeclimate.com/github/tflem/metify/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/b28c21585883ffe6279e/test_coverage)](https://codeclimate.com/github/tflem/metify/test_coverage)
 
 # Metify
 
