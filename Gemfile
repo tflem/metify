@@ -12,6 +12,7 @@ gem 'turbo-rails'
 gem 'stimulus-rails'
 gem 'cssbundling-rails'
 gem 'jbuilder'
+gem 'redis', '4.8.1'
 gem 'simple_form', '~> 5.1'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
